@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "algorithms-lists-dicts",
+      "title": "Algorithms with Lists and Dictionaries",
+      "description": "Practice beginner algorithms with lists and dictionaries: search, frequency counting, and sorting.",
+      "path": "assignments/algorithms-lists-dicts",
+      "dueDate": "2026-07-23",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
